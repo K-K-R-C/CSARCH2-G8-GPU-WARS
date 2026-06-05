@@ -126,9 +126,80 @@ This section is the core of the exhibit and is presented as an interactive timel
 *AI Supercomputing Era*
 - GPU’s become core infrastructure for AI training and interference
 
+### 4.) Evolution of GPU Architecture
 
-## II. Interactive Component
+This section explores the major architectural developments that transformed GPUs from specialized graphics accelerators into powerful platforms for scientific computing, real-time rendering, and artificial intelligence.
 
-## III. Proposed Design Layout
+**Architectural Progression**
+
+    Fixed-Function Pipeline  
+    ↓  
+    Transform and Lighting Hardware  
+    ↓  
+    Programmable Shaders  
+    ↓  
+    CUDA (General-Purpose Computing)  
+    ↓  
+    RT Cores (Ray Tracing)  
+    ↓  
+    Tensor Cores (AI Acceleration)
+#### Key Takeaway
+
+- Hardware acceleration
+- Parallel processing
+- Programmable hardware design
+- Specialized compute units
+- Throughput-oriented architecture
+
+
+### 5.) GPU Competition (“GPU Wars”)
+GPU evolution was strongly shaped by competition between hardware manufacturers.
+
+Topics covered include:
+- 3dfx Vs. NVIDIA (Early 3D graphics era)
+- NVIDIA Vs. ATI/AMD (GPU standardization era)
+- NVIDIA Vs. AMD Vs. Intel (AI computing era)
+
+**Key Idea**:
+Competition between companies accelerated architectural innovation and pushed GPUs into new computing domains.
+
+### 6.) Conclusion and Legacy
+The GPU is now a foundational component of modern computing systems.
+
+Without GPUs:
+- Modern 3D graphics would not exist at scale
+- Scientific simulations would be significantly slower
+- Machine learning would be impractical
+- Large language models would not be feasible
+
+**Final Statement**:
+
+The GPU did not just improve graphics performance, but it also fundamentally changed the nature of computing.
+
+## II. Computer Architecture Concepts
+This exhibit directly connects GPU history to core CSARCH principles.
+
+**a. Hardware Acceleration**
+
+  Specialized hardware improves performance for specific workloads.
+
+**b. Parallel Processing**
+
+  GPUs execute thousands of operations simultaneously.
+
+**c. Programmable Architectures**
+
+  Transition from fixed-function pipelines to flexible compute systems.
+
+**d. Specialized Processing Units**
+
+  Introduction of RT Cores and Tensor Cores.
+
+**e. Throughput-Oriented Design**
+
+  Optimization for massive data processing rather than single-task speed.
+
+## III. Visitor Experience and Interactive Features
+
 
 ## IV. Planned JSX Components (???)
