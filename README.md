@@ -1,10 +1,10 @@
 # CSARCH2-G8-GPU-WARS
 
-Title:
-Topic Theme: 
-GitHub Link: 
+**Title**: GPU Wars
+**Topic Theme**: 
+**GitHub Link**: 
 
-## Group Members
+### Group Members
 * BENDOL, Trisha Mae R.
 * CAMATO, Karl Kristoffer R.
 * DESCALZO, Alberto Miguel T.
