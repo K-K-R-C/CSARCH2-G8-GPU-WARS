@@ -1,7 +1,7 @@
 # CSARCH2-G8-GPU-WARS
 
-**Title**: GPU Wars
-**Topic Theme**: 
+**Title**: GPU Wars  
+**Topic Theme**:   
 **GitHub Link**: 
 
 ### Group Members
