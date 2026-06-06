@@ -200,6 +200,72 @@ This exhibit directly connects GPU history to core CSARCH principles.
   Optimization for massive data processing rather than single-task speed.
 
 ## III. Visitor Experience and Interactive Features
+### 1.) Interactive Timeline (Main Component)
+Visitors explore GPU history through a clickable timeline of major milestones.
+
+Features: 
+- Historical explanations
+- Visual diagrams
+- Architectural breakdowns
+- Key innovations per era
 
 
-## IV. Planned JSX Components (???)
+### 2.) GPU Architecture Explorer (possible future component)
+Visitors can select a GPU generation and explore its architecture.
+
+Each selection shows:
+- Primary purpose
+- Key architectural features
+- Supported workloads
+- Major innovations
+
+Possible comparisons:
+| # | Comparison |
+|---|------------|
+| 1 | Voodoo Graphics (1996) |
+| 2 | GeForce 256 (1999) |
+| 3 | CUDA-era GPUs |
+| 4 | RTX GPUs |
+| 5 | AI accelerators |
+
+
+### 3.) GPU Generation Comparison Tool (possible future component)
+A side-by-side comparison tool where users select two GPU generations to compare.
+
+Example Comparisons:
+| # | Comparison |
+|---|------------|
+| 1 | GeForce 256 vs. RTX GPU |
+| 2 | GTX Era vs. H100 |
+| 3 | Gaming GPU vs. AI GPU |
+
+Displayed data:
+- Year of release
+- Intended purpose
+- Architecture type
+- Memory system
+- Specialized hardware
+- Typical workloads
+
+**Educational Goal**:
+
+Helps users visually understand how GPU architecture evolved over time in terms of complexity, specialization and computing capability.
+
+## IV. Visual Design Direction
+**Theme:** Modern Technology Museum / GPU Architecture Exhibit
+
+**Key Design Features**
+- Dark semiconductor-inspired aesthetic
+- Card-based information panels
+- Interactive timeline animations
+- Circuit-themed visual accents
+- Fully responsive interface
+## V. Planned React Components
+
+| Component | Purpose |
+|-----------|---------|
+| `InteractiveTimeline.jsx` | Main timeline of GPU milestones |
+| `TimelineEvent.jsx` | Individual timeline entries |
+| `ArchitectureExplorer.jsx` | GPU architecture breakdown viewer |
+| `GPUComparisonTool.jsx` | Side-by-side GPU generation comparison |
+| `GPUInfoCard.jsx` | Displays structured GPU details |
