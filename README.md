@@ -219,7 +219,7 @@ Each selection shows:
 - Supported workloads
 - Major innovations
 
-Possible comparisons:
+Possible comparisons
 | # | Comparison |
 |---|------------|
 | 1 | Voodoo Graphics (1996) |
@@ -232,7 +232,7 @@ Possible comparisons:
 ### 3.) GPU Generation Comparison Tool (possible future component)
 A side-by-side comparison tool where users select two GPU generations to compare.
 
-Example Comparisons:
+Example Comparisons
 | # | Comparison |
 |---|------------|
 | 1 | GeForce 256 vs. RTX GPU |
