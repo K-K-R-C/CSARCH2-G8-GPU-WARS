@@ -112,7 +112,7 @@ This section is the core of the exhibit and is presented as an interactive timel
 
 #### b. Turning Point #2 - 1999
 *GeForce 256*
-- Introduction of the “GPU” concept with hardware transform and lightning
+- Introduction of the “GPU” concept with hardware transform and lighting
 
 #### c. Turning Point #3 - 2007
 *CUDA*
@@ -120,11 +120,11 @@ This section is the core of the exhibit and is presented as an interactive timel
 
 #### Turning Point #4 - 2018
 *RTX 20 Series*
-- Introduction fo ray tracing and AI-assisted rendering hardware
+- Introduction of ray tracing and AI-assisted rendering hardware
 
 #### Turning Point #5 - 2022-Present
 *AI Supercomputing Era*
-- GPU’s become core infrastructure for AI training and interference
+- GPU’s become core infrastructure for AI training and inference
 
 ### 4.) Evolution of GPU Architecture
 
