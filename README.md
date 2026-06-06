@@ -260,7 +260,7 @@ Helps users visually understand how GPU architecture evolved over time in terms 
 - Interactive timeline animations
 - Circuit-themed visual accents
 
-**Planned display**
+**Planned Display**
 <img width="1902" height="1177" alt="714570513_2502861420176954_4283974260954905694_n" src="https://github.com/user-attachments/assets/59e15cc3-218f-4177-8fbb-87f7ede281e1" />
 <img width="1901" height="502" alt="713663174_1280924627130308_6614562257040429805_n" src="https://github.com/user-attachments/assets/1102d40d-c74d-4eea-9a37-6c829bcee006" />
 ## V. Planned React Components
