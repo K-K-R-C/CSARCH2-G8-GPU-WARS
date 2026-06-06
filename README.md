@@ -263,7 +263,7 @@ Helps users visually understand how GPU architecture evolved over time in terms 
 
 **Planned display**
 <img width="1912" height="1177" alt="714570513_2502861420176954_4283974260954905694_n" src="https://github.com/user-attachments/assets/73a057e9-10c5-4b68-a126-8dd9e53b2908" />
-<img width="1901" height="982" alt="713663174_1280924627130308_6614562257040429805_n" src="https://github.com/user-attachments/assets/98cffbbc-34be-41ec-9197-0d8d234734fd" />
+<img width="1901" height="502" alt="713663174_1280924627130308_6614562257040429805_n" src="https://github.com/user-attachments/assets/484e64c6-1091-429e-8e17-8a24070eb061" />
 ## V. Planned React Components
 
 | Component | Purpose |
