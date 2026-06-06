@@ -259,7 +259,6 @@ Helps users visually understand how GPU architecture evolved over time in terms 
 - Card-based information panels
 - Interactive timeline animations
 - Circuit-themed visual accents
-- Fully responsive interface
 
 **Planned display**
 <img width="1902" height="1177" alt="714570513_2502861420176954_4283974260954905694_n" src="https://github.com/user-attachments/assets/59e15cc3-218f-4177-8fbb-87f7ede281e1" />
