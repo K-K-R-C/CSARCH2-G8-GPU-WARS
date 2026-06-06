@@ -262,8 +262,8 @@ Helps users visually understand how GPU architecture evolved over time in terms 
 - Fully responsive interface
 
 **Planned display**
-<img width="1912" height="1177" alt="714570513_2502861420176954_4283974260954905694_n" src="https://github.com/user-attachments/assets/73a057e9-10c5-4b68-a126-8dd9e53b2908" />
-<img width="1901" height="502" alt="713663174_1280924627130308_6614562257040429805_n" src="https://github.com/user-attachments/assets/484e64c6-1091-429e-8e17-8a24070eb061" />
+<img width="1902" height="1177" alt="714570513_2502861420176954_4283974260954905694_n" src="https://github.com/user-attachments/assets/59e15cc3-218f-4177-8fbb-87f7ede281e1" />
+<img width="1901" height="502" alt="713663174_1280924627130308_6614562257040429805_n" src="https://github.com/user-attachments/assets/1102d40d-c74d-4eea-9a37-6c829bcee006" />
 ## V. Planned React Components
 
 | Component | Purpose |
