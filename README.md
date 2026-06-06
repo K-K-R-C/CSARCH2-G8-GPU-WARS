@@ -210,7 +210,7 @@ Features:
 - Key innovations per era
 
 
-### 2.) GPU Architecture Explorer (possible future component)
+### 2.) GPU Architecture Explorer
 Visitors can select a GPU generation and explore its architecture.
 
 Each selection shows:
