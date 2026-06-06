@@ -1,7 +1,7 @@
 # CSARCH2-G8-GPU-WARS
 
 **Title**: GPU Wars: Five Turning Points That Changed Computing  
-**GitHub Link**: 
+**GitHub Link**: https://github.com/K-K-R-C/CSARCH2-G8-GPU-WARS/blob/main/README.md
 
 ### Group Members
 * BENDOL, Trisha Mae R.
