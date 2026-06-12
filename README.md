@@ -118,11 +118,11 @@ This section is the core of the exhibit and is presented as an interactive timel
 *CUDA*
 - GPUs become general-purpose parallel computing devices
 
-#### Turning Point #4 - 2018
+#### d. Turning Point #4 - 2018
 *RTX 20 Series*
 - Introduction of ray tracing and AI-assisted rendering hardware
 
-#### Turning Point #5 - 2022-Present
+#### e. Turning Point #5 - 2022-Present
 *AI Supercomputing Era*
 - GPU’s become core infrastructure for AI training and inference
 
