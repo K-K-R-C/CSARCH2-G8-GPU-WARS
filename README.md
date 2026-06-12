@@ -219,7 +219,7 @@ Each selection shows:
 - Supported workloads
 - Major innovations
 
-Possible comparisons:
+#### Possible comparisons:
 
 | # | Comparison |
 |---|------------|
@@ -233,7 +233,7 @@ Possible comparisons:
 ### 3.) GPU Generation Comparison Tool (possible future component)
 A side-by-side comparison tool where users select two GPU generations to compare.
 
-Example Comparisons:
+#### Example Comparisons:
 
 | # | Comparison |
 |---|------------|
