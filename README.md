@@ -176,7 +176,7 @@ Without GPUs:
 
 The GPU did not just improve graphics performance, but it also fundamentally changed the nature of computing.
 
-## II. Computer Architecture Concepts
+## II. Computer Architecture Concepts (Updated)
 This exhibit directly connects GPU history to core CSARCH principles.
 
 **a. Hardware Acceleration**
@@ -262,7 +262,7 @@ Helps users visually understand how GPU architecture evolved over time in terms 
 - Interactive timeline animations
 - Circuit-themed visual accents
 
-**Planned Display**
+**Planned Display (Updated)**
 <img width="1898" height="1198" alt="720654600_1329350381895691_7444397296347780258_n" src="https://github.com/user-attachments/assets/96c74acb-4d81-4266-b5b9-3e846723b6c5" />
 <img width="1900" height="1197" alt="720919235_1349271170421287_3978395389256981937_n" src="https://github.com/user-attachments/assets/5d5b772c-dcc1-4af2-9d60-8eee21c73233" />
 
