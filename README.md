@@ -253,7 +253,7 @@ Displayed data:
 
 Helps users visually understand how GPU architecture evolved over time in terms of complexity, specialization and computing capability.
 
-## IV. Visual Design Direction And Layout
+## IV. Visual Design Direction And Layout Snapshot
 **Theme:** Modern Technology Museum / GPU Architecture Exhibit
 
 **Key Design Features**
